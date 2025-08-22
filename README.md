@@ -14,7 +14,7 @@
 
 ### 🏆 Featured Projects:
 - [Retail Analysis Project](https://github.com/ArfaWaqar/retail-analysis-Project)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfa-Waqar&layout=compact&theme=radical)
+
   
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arfa-waqar-40536b32a)
