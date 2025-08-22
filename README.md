@@ -15,12 +15,8 @@
 ### 🏆 Featured Projects:
 - [Retail Analysis Project](https://github.com/ArfaWaqar/retail-analysis-Project)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfa-Waqar&layout=compact&theme=radical)
-
-
-### 📫 Connect with me:
-[!LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](www.linkedin.com/in/arfa-waqar-40536b32a)
-[!Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)]https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+  
 ### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arfa-waqar-40536b32a)
-[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)][arfawaqar702@gmail.com](mailto:arfawaqar702@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:arfawaqar702@gmail.com)
 
